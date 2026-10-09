@@ -1,0 +1,20 @@
+{
+  "name": "Menlo Swim & Sport",
+  "city": "the City of Menlo Park",
+  "site": "https://menloswim.com",
+  "home": "burgess.html",
+  "logo": "https://menloswim.com/wp-content/uploads/2015/12/logo.png",
+  "footer": "customerservice@menloswim.com &nbsp;·&nbsp; 501 Laurel Street, Menlo Park, CA 94025 &nbsp;·&nbsp; 650-781-5525",
+  "origin": {
+    "burgess.html": "https://menloswim.com/pool-schedule-2/",
+    "belle-haven.html": "https://menloswim.com/pool-schedule-bellehaven/"
+  },
+  "topbar": [["What's Happening?", "https://menloswim.com/whats-happening/"], ["Careers", "https://menloswim.com/about/careers/"], ["Contact Us", "https://menloswim.com/contact-us/"], ["Burgess Pool", "burgess.html"], ["Belle Haven Pool", "belle-haven.html"]],
+  "nav": [["Learn", "About", "/about/general/"], ["Dive into", "Swimming", "/swimming/lap-swim/burgess-location/"], ["Swim", "Lessons", "/lessons/adult-swim-lessons/"], ["Join", "Camps", "/camps/summer-camps-belle-haven/"], ["Coaching &", "Clinics", "/"], ["Community", "Programming", "/"], ["Questions?", "Contact Us", "/contact-us/"]],
+  "embeds": {
+    "bweek": ["AOTHameMeEjxztrDYe536D", "Burgess Pool: the week"],
+    "blanes": ["rr06FW1Xgyh9wCUkpvh0hC", "Burgess Pool: today, lane by lane"],
+    "hweek": ["GQD3gzEFQhdxpNeC5ZCcYb", "Belle Haven Pool: the week"],
+    "hlanes": ["kqsH4DryEqPTwI3OO7NPlG", "Belle Haven Pool: today, lane by lane"]
+  }
+}
