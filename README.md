@@ -9,3 +9,8 @@ replaced by live [Pool Relay](https://www.poolrelay.com) calendars. Edit `src/`,
 | `belle-haven.html` | `/pool-schedule-bellehaven/` | week `GQD3gzEFQhdxpNeC5ZCcYb` · lane by lane `kqsH4DryEqPTwI3OO7NPlG` |
 
 Source: the Fall 2026 schedule PDFs (beginning September 8) posted on those pages, read 2026-10-08.
+
+## Registration
+
+Each page lists its pools' programs under "Register at …", filled live by `live.js` (`data-live="register"`) from each
+group's Pool Relay passes: what it offers, its price range, and a link to its Pool Relay registration page.
